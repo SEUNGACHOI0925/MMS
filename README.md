@@ -18,7 +18,7 @@
   <br>
 
 ### 4. 회원정보 삭제 
-![image](https://github.com/SEUNGACHOI0925/javaProject/assets/112832677/ca866dc4-2f6f-48e5-8191-fb2a7220752f)
+![image](https://github.com/SEUNGACHOI0925/javaProject-MainForm/assets/112832677/bda54946-f85e-4f06-8527-5138c9d54952)
 - 테이블의 특정 데이터를 클릭한 뒤 삭제 버튼을 클릭하면 선택되어있는 데이터가 삭제 됩니다.
 <br>
 
