@@ -3,7 +3,7 @@
 ---
 #### 기능 설명
 ### 1. 회원정보 조회 
-![image](https://github.com/SEUNGACHOI0925/javaProject-MainForm-/assets/112832677/f1655af3-9e8d-45b0-b83b-eaa65cb2b51a)
+![image](https://github.com/SEUNGACHOI0925/javaProject-MainForm-/assets/112832677/0980c907-6bb5-4f24-b7b0-7b0d7809cd6c)
 - 조회버튼을 클릭하여 테이블 창으로 회원정보를 조회 할 수 있습니다.
 <br>
 
