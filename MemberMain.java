@@ -11,9 +11,6 @@ public class MemberMain {
             connection = DBConnection.getConnection();
             statement = connection.createStatement();
             
-            // 여기서부터 원하는 작업 수행
-            // ...
-            
         } catch (SQLException e) {
             System.out.println("SQLException: " + e.getMessage());
         } finally {
