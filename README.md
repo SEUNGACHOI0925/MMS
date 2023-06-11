@@ -1,10 +1,9 @@
 # ✨회원관리 메인폼 구현
 (2023-06-08 ~ 20203-06-11)
 ---
-### 간단한 설명
 #### 기능 설명
 ### 1. 회원정보 조회 
-![image](https://github.com/SEUNGACHOI0925/javaProject/assets/112832677/20023f17-a5e2-4806-9fdf-4b790342f51d)
+![image](https://github.com/SEUNGACHOI0925/javaProject-MainForm-/assets/112832677/f1655af3-9e8d-45b0-b83b-eaa65cb2b51a)
 - 조회버튼을 클릭하여 테이블 창으로 회원정보를 조회 할 수 있습니다.
 
 ### 2. 회원정보 입력 
